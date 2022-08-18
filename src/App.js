@@ -6,4 +6,6 @@ class App extends React.Component {
   }
 }
 
+const ovo = 'adasd'
+
 export default App;
