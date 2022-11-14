@@ -1,3 +1,45 @@
 .App {
   text-align: center;
 }
+
+.planet-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.planet-image {
+  width: 11rem;
+}
+
+.planets {
+  display: flex;
+  flex-direction: row;
+}
+
+.solar-system {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.missions {
+  display: flex;
+  flex-direction: row;
+}
+
+.mission-card {
+  margin-right: 2rem;
+}
+
+.missions-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.mission-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
